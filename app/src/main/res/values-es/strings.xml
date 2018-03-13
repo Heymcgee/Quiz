@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="_1_pop_art_was_a_reaction_to_what_other_art_movement">1. Pop Art fue una reacción a lo que otros movimientos de arte?</string>
+    <string name="cubism">Cubismo</string>
+    <string name="romanticism">Romanticismo</string>
+    <string name="neo_impressionism">Neo-impresionismo</string>
+    <string name="abstract_expressionism">Expresionismo Abstracto</string>
+    <string name="_2_which_of_the_following_people_are_associated_with_the_pop_art_movement_check_all_that_apply">¿Cuáles de las siguientes personas están asociadas con el movimiento Pop Art? Marque todo lo que corresponda.</string>
+    <string name="mary_cassat">Mary Cassat</string>
+    <string name="pablo_picasso">Pablo Picasso</string>
+    <string name="jasper_johns">Jasper Johns</string>
+    <string name="frida_kahlo">Frida Kahlo</string>
+    <string name="richard_hamilton">Richard Hamilton</string>
+    <string name="_3_which_pop_artist_is_attributed_with_this_well_known_quote">3. A qué artista pop se le atribuye esta cita conocida:</string>
+    <string name="everyone_will_be_famous_for_15_minutes">Todos serán famosos por 15 minutos.</string>
+    <string name="type_the_artist_s_name_here">Escriba el nombre del artista aquí</string>
+    <string name="_4_true_or_false_the_pop_art_movement_began_in_the_1950_s">4. Verdadero o falso. El movimiento del Pop Art comenzó en la década de 1950.</string>
+    <string name="incorrect">Falso</string>
+    <string name="correct">Verdadero</string>
+    <string name="flag_image">Imagen de la bandera</string>
+    <string name="_5_who_painted_the_iconic_image_above">5. ¿Quién pintó la imagen icónica de arriba?</string>
+    <string name="david_hockney">David Hockney</string>
+    <string name="andy_warhol">Andy Warhol</string>
+    <string name="jackson_pollock">Jackson Pollack</string>
+    <string name="none_of_the_above">Ninguna de las anteriores</string>
+    <string name="get_score">Obtener puntaje</string>
+    <string name="reset">Reiniciar</string>
+    <string name="click_on_the_soup_can_above_to_learn_even_more_about_pop_art">¡Haga clic en la lata de sopa de arriba para aprender aún más sobre el arte pop!</string>
+    <string name="soup">sopa</string>
+    <string name="you_scored_out_of_6_you_are_a_pop_art_genius">¡Has puntuado de 6! ¡Eres un genio del Pop Art!</string>
+    <string name="you_scored_out_of_6_you_know_a_good_deal_about_art">¡Tu puntaje es de 6! ¡Ya sabes mucho sobre Pop Art!</string>
+    <string name="you_scored_out_of_6_pretty_good">¡Has puntuado de 6! ¡Bastante bueno!</string>
+    <string name="you_scored_out_of_6_you_can_do_better">¡Has puntuado de 6! ¡Puedes hacerlo mejor!</string>
+    <string name="you_scored_out_of_6_not_good_keep_studying">¡Has puntuado de 6! ¡No es bueno, sigue estudiando!</string>
+    <string name="you_scored_out_of_6_you_dont_know_much_about_art_do_you">¡Has puntuado de 6! No sabes mucho sobre arte, ¿verdad?</string>
+    <string name="you_scored_out_of_6_click_on_the_soup_can_to_learn_about_art">¡Has puntuado de 6! Haga clic en la lata de sopa para aprender sobre Pop Art.</string>
+    <string name="_6_true_or_false_the_united_states_was_the_only_country_where_pop_art_was_really_embraced">6. Verdadero o falso. Estados Unidos fue el único país donde el Pop Art fue realmente adoptado.</string>
+    <string name="check_my_answers">Comprueba mis respuestas</string>
+    <string name="quiz_logo">logo</string>
+</resources>

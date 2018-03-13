@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="_1_pop_art_was_a_reaction_to_what_other_art_movement">1. Pop Art was a reaction to what other art movement?</string>
+    <string name="cubism">Cubism</string>
+    <string name="romanticism">Romanticism</string>
+    <string name="neo_impressionism">Neo-impressionism</string>
+    <string name="abstract_expressionism">Abstract Expressionism</string>
+    <string name="_2_which_of_the_following_people_are_associated_with_the_pop_art_movement_check_all_that_apply">2. Which of the following people are associated with the Pop Art movement? Check all that apply.</string>
+    <string name="mary_cassat">Mary Cassat</string>
+    <string name="pablo_picasso">Pablo Picasso</string>
+    <string name="frida_kahlo">Frida Kahlo</string>
+    <string name="richard_hamilton">Richard Hamilton</string>
+    <string name="_3_which_pop_artist_is_attributed_with_this_well_known_quote">3. Name the Pop artist in which this well know quote is attributed to:</string>
+    <string name="everyone_will_be_famous_for_15_minutes">Everyone will be famous for 15 minutes.</string>
+    <string name="type_the_artist_s_name_here">Type the artist\'s name here</string>
+    <string name="_4_true_or_false_the_pop_art_movement_began_in_the_1950_s">4. True or False. The Pop Art movement began in the 1950\'s.</string>
+    <string name="incorrect">False</string>
+    <string name="correct">True</string>
+    <string name="flag_image">Flag Image</string>
+    <string name="_5_who_painted_the_iconic_image_above">5. Who painted the iconic image above?</string>
+    <string name="david_hockney">David Hockney</string>
+    <string name="andy_warhol">Andy Warhol</string>
+    <string name="jasper_johns">Jasper Johns</string>
+    <string name="jackson_pollock">Jackson Pollock</string>
+    <string name="none_of_the_above">None of the above</string>
+    <string name="get_score">Get Score</string>
+    <string name="reset">Reset</string>
+    <string name="click_on_the_soup_can_above_to_learn_even_more_about_pop_art">Click on the soup can above to learn even more about Pop Art!</string>
+    <string name="soup">soup</string>
+    <string name="check_my_answers">Check My Answers</string>
+    <string name="_6_true_or_false_the_united_states_was_the_only_country_to_truly_embrace_pop_art">6. True or False. The United States was the only country to truly embrace Pop Art.</string>
+
+</resources>
